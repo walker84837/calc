@@ -2,6 +2,8 @@
 
 A simple GUI calculator application built with Go, Fyne, and govaluate.
 
+![Showcase of the calculator application](https://github.com/user-attachments/assets/39a337d5-85d7-41eb-9127-b5f09c236f44 "Calculator Showcase")
+
 ## Features
 
 * Basic arithmetic operations (+, -, *, /)
